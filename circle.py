@@ -44,4 +44,5 @@ class Circle:
         Returns:
             float: return area of the circle if the circle is valid, 0 otherwise
         '''
+
         return pi*self.radius**2
